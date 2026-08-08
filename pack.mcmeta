@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "description": "Make oceans generate absurdly deep, like in the Wifies ARG Video.",
+        "pack_format": 107,
+        "min_format": [101],
+        "max_format": [107, 1]
+    }
+}
