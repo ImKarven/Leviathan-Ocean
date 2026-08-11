@@ -1,7 +1,7 @@
 # Leviathan Ocean
 This is a minecraft datapack that makes the oceans generate much deeper than usual.
 
-See full description on Modrinth.
+See full description on [Modrinth](https://modrinth.com/datapack/levio).
 
 ## Version
 The `main` branch is the datapack for version 1.21.11 - 26.2.
